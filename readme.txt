@@ -5,4 +5,3 @@ git tracks changes of files.
 creating a new branch is quick.
 doing something
 craeting a new branch is quick & simple master and feature1.
-add merge 
